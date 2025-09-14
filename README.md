@@ -24,4 +24,5 @@ Test your memory by repeating the sequence of colors that the game shows you. Ea
 ## ▶️ Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/parthverma12/Simon-Says-Game.git
+
